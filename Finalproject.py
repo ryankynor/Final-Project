@@ -11,7 +11,7 @@ fuelmass = input("What is the mass of the fuel in the rocket?")
 thrustvelocity = input("What is the thrust velocity of the engine used in the rocket?")
 
 
-
+delta-v = 
 
 
 
