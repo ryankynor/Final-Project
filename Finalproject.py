@@ -12,6 +12,7 @@ thrustvelocity = input("What is the thrust velocity of the engine used in the ro
 
 
 #delta-v = 
+print (math)
 
 
 
