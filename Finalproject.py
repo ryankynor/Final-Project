@@ -13,7 +13,7 @@ thrustvelocity = input("What is the thrust velocity of the engine used in the ro
 totalmass = fuelmass + staticmass
 
 
-deltav = thrustvelocity * math.log1p(totalmass/fuelmass)
+deltav = thrustvelocity * math.log(totalmass/fuelmass)
 print(math)
 
 
