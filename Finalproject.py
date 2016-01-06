@@ -21,5 +21,7 @@ deltav = thrustvelocity * math.log(totalmass/fuelmass)
 
 if deltav >= 13500:
     print("Yay! Your rocket made it to geostatonary orbit!")
+    print("Your Delta-V was {0}",deltav)
 else:
     print("Your rocket didn't make it to geostationary orbit.")
+    print("Your Delta-V was {0}",deltav)
