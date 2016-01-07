@@ -6,7 +6,7 @@ import math
 
 
 deltav = 0
-staticmass = int(input("What is the static mass of the rocket in kg? "))
+staticmass = int(input("What is the dry mass of the rocket in kg? "))
 fuelmass = int(input("What is the mass of the fuel in the rocket in kg? "))
 thrustvelocity = int(input("What is the thrust velocity of the engine used in the rocket in meters per second? "))
 
