@@ -13,7 +13,7 @@ thrustvelocity = int(input("What is the thrust velocity of the engine used in th
 totalmass = fuelmass + staticmass
 
 #calculation
-deltav = thrustvelocity * math.log(fuelmass/totalmass)
+deltav = thrustvelocity * math.log(totalmass/staticmass)
 
 
 
