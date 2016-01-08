@@ -33,5 +33,9 @@ else:
     
 #program written with idea of optimal orbital trajectory and average amount of aerodynamics
 
+"""
+Planning to take into account different launch tragectories and basic orbital maneuvers in the future
+This would be based on date and coordinates
 
+"""
 
